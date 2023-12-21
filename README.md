@@ -17,8 +17,8 @@ Mobile preview
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-5JANc4spwT)
-- Live Site URL: [Live Demo](https://blog-preview-card-ashy.vercel.app/)
+- [Solution URL: ](https://www.frontendmentor.io/solutions/blog-preview-card-5JANc4spwT)
+- [Live Site URL: ](https://blog-preview-card-ashy.vercel.app/)
 
 ### Built with
 
