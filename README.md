@@ -10,9 +10,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Desktop preview
+### Desktop preview
+
 ![](./screenshot-desktop.png)
-Mobile preview
+
+### Mobile preview
+
 ![](./screenshot-mobile.png)
 
 ### Links
